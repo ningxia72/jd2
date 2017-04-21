@@ -1,3 +1,3 @@
 # README
 
-all orders
+payment and mailer
