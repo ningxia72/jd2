@@ -1,3 +1,3 @@
 # README
 
-payment and mailer
+qiniu
